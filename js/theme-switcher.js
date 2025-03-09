@@ -29,6 +29,7 @@ try {
                     navbar.classList.remove('navbar-dark');
                     navbar.classList.add('navbar-light');
                     navbar.style.backgroundColor = 'white';
+                    navbar.style.border = '1px solid #000';
                 } else {
                     navbar.classList.remove('navbar-light');
                     navbar.classList.add('navbar-dark');

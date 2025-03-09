@@ -38,7 +38,8 @@ body.light-mode {
 }
 
 body.light-mode a {
-    color: darkviolet;
+    color: black;
+    text-decoration: underline;
 }
 
 .container {
@@ -71,7 +72,9 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  transition: font-weight 0.1s ease;
+  font-weight: 450;
 }
 
 
