@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Modeling the amplification of epidemic spread by individuals exposed to misinformation on social media",
+        "authors": "Matthew R. DeVerna, Francesco Pierri, Yong-Yeol Ahn, Santo Fortunato, Alessandro Flammini, Filippo Menczer",
+        "publication": "npj Complexity (In Press)",
+        "year": "2025",
+        "href": "https://arxiv.org/abs/2402.11351",
+        "pdfLink": "./docs/publications/2025_DeVerna_ModelingMisinfoDisease/2025_DeVerna_ModelingMisinfoDisease.pdf",
+        "bibPath": "./docs/publications/2025_DeVerna_ModelingMisinfoDisease/cite.bib"
+    },
+    {
+        "title": "Fact-checking information from large language models can decrease headline discernment",
+        "authors": "Matthew R. DeVerna, Harry Yaojun Yan, Kai-Cheng Yang, Filippo Menczer",
+        "publication": "Proc. Natl. Acad. Sci. U.S.A. (PNAS)",
+        "year": "2024",
+        "href": "https://doi.org/10.1073/pnas.2322823121",
+        "pdfLink": "./docs/publications/2024_DeVerna_ChatGPTFactChecking.pdf",
+        "bibPath": "./docs/publications/2024_DeVerna_ChatGPTFCIntervention/cite.bib"
+    },
+    {
+        "title": "Identifying and characterizing superspreaders of low-credibility content on Twitter",
+        "authors": "Matthew R. DeVerna, Rachith Aiyappa, Diogo Pacheco, John Bryden, and Filippo Menczer",
+        "publication": "PLOS ONE",
+        "year": "2024",
+        "href": "https://doi.org/10.1371/journal.pone.0302201",
+        "pdfLink": "./docs/publications/2024_DeVerna_Superspreaders/2024_DeVerna_Superspreaders.pdf",
+        "bibPath": "./docs/publications/2024_DeVerna_Superspreaders/cite.bib"
+    },
+    {
+        "title": "The Dawn of Decentralized Social Media: An Exploration of Bluesky's Public Opening",
+        "authors": "Erfan Samieyan Sahneh, Gianluca Nogara, Matthew R. DeVerna, Nick Liu, Luca Luceri, Filippo Menczer, Francesco Pierri, Silvia Giordano",
+        "publication": "Proceedings of the Conference on Advances in Social Networks Analysis and Mining",
+        "year": "2025",
+        "href": "https://doi.org/10.1007/978-3-031-78541-2_26",
+        "pdfLink": "./docs/publications/2024_DeVerna_BlueskyDawn/2024_DeVerna_BlueskyDawn.pdf",
+        "bibPath": "./docs/publications/2024_DeVerna_BlueskyDawn/cite.bib"
+    },
+    {
+        "title": "A multi-platform collection of social media posts about the 2022 U.S. midterm elections",
+        "authors": "Rachith Aiyappa†, Matthew R. DeVerna†, Manita Pote†, Bao Tran Truong†, Wanying Zhao†, David Axelrod, Aria Pessianzadeh, Zoher Kachwala, Munjung Kim, Ozgur Can Seckin, Minsuk Kim, Sunny Gandhi, Amrutha Manikonda, Francesco Pierri, Filippo Menczer, Kai-Cheng Yang",
+        "publication": "Proceedings of the International AAAI Conference on Web and Social Media",
+        "year": "2023",
+        "href": "https://ojs.aaai.org/index.php/ICWSM/article/view/22205",
+        "pdfLink": "./docs/publications/2023_Aiyappa_MidtermDataset/2023_Aiyappa_MidtermDataset.pdf",
+        "bibPath": "./docs/publications/2023_Aiyappa_MidtermDataset/cite.bib"
+    },
+    {
+        "title": "One year of COVID-19 vaccine misinformation on Twitter",
+        "authors": "Francesco Pierri, Matthew R. DeVerna, Kai-Cheng Yang, David Axelrod, John Bryden, and Filippo Menczer",
+        "publication": "Journal of Medical Internet Research",
+        "year": "2023",
+        "href": "https://doi.org/10.2196/42227",
+        "pdfLink": "./docs/publications/2023_Pierri_OneYearCoVaxxy/2022_Pierri_OneYearCoVaxxy.pdf",
+        "bibPath": "./docs/publications/2023_Pierri_OneYearCoVaxxy/cite.bib"
+    },
+    {
+        "title": "Rumors in Retweet: Ideological Asymmetry in the Failure to Correct Misinformation",
+        "authors": "Matthew R. DeVerna, Andy Guess, Adam Berinsky, Joshua Tucker, and John Jost",
+        "publication": "Personality and Social Psychology Bulletin",
+        "year": "2022",
+        "href": "https://doi.org/10.1177/01461672221114222",
+        "pdfLink": "./docs/publications/2022_DeVerna_Rumors/2022_DeVerna_Rumors.pdf",
+        "bibPath": "./docs/publications/2022_DeVerna_Rumors/cite.bib"
+    },
+    {
+        "title": "Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal",
+        "authors": "Francesco Pierri, Brea L. Perry, Matthew R. DeVerna, Kai-Cheng Yang, Alessandro Flammini, Filippo Menczer, and John Bryden",
+        "publication": "Scientific Reports",
+        "year": "2022",
+        "href": "https://doi.org/10.1038/s41598-022-10070-w",
+        "pdfLink": "./docs/publications/2022_Pierri_MisinfoVaxHesitancy/2022_Pierri_MisinfoVaxHesitancy.pdf",
+        "bibPath": "./docs/publications/2022_Pierri_MisinfoVaxHesitancy/cite.bib",
+        "additionalInfo": [
+            "<small><strong>Listed in <em>Scientific Reports</em><a href='https://www.nature.com/collections/jhjibhhicg' target='_blank'> Top 100 most downloaded articles of 2022</a></strong></small><br>",
+            "<small><strong>Cited in the <a href='https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf' target='_blank'>2023 Economic Report of the President</a></strong></small>"
+        ]
+    },
+    {
+        "title": "CoVaxxy: A Collection of English-Language Twitter Posts About COVID-19 Vaccines",
+        "authors": "Matthew R. DeVerna, Francesco Pierri, Bao Tran Truong, John Bollenbacher, David Axelrod, Niklas Loynes, Christopher Torres-Lugo, Kai-Cheng Yang, Filippo Menczer, and John Bryden",
+        "publication": " Proceedings of the International AAAI Conference on Web and Social Media",
+        "year": "2021",
+        "href": "https://ojs.aaai.org/index.php/ICWSM/article/view/18122",
+        "pdfLink": "./docs/publications/2021_DeVerna_CoVaxxyDataset/2021_DeVerna_CoVaxxyDataset.pdf",
+        "bibPath": "./docs/publications/2021_DeVerna_CoVaxxyDataset/cite.bib"
+    }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "year": "2025",
+        "items": [
+            {
+                "type": "Paper",
+                "htmltext": "Our paper <a href='https://arxiv.org/abs/2402.11351' target='_blank'>Modeling the amplification of epidemic spread by individuals exposed to misinformation on social media</a> was accepted for publication at <em>npj Complexity</em>."
+            },
+            {
+                "type": "General",
+                "htmltext": "Accepted an offer to join the <a href='https://sml.stanford.edu/' target='_blank'>Stanford Social Media Lab<a> as a postdoctoral researcher!"
+            },
+            {
+                "type": "Award",
+                "htmltext": "Was accepted to the <a href='https://ntmi.lakecomoschool.org/' target='_blank'>Lake Como School of Advanced Studies<a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Gave an invited talk at <a href='https://spsp.org/' target='_blank'>SPSP</a> as part of the <a href='https://spsp.org/events/annual-convention/preconferences#item-accordion-item--9922__panel' target='_blank'>Misinformation and Belief Science preconference</a>."
+            }
+        ]
+    },
+    {
+        "year": "2024",
+        "items": [
+            {
+                "type": "Publication",
+                "htmltext": "Our work <a href='https://doi.org/10.1073/pnas.2322823121' target='_blank'>Fact-checking information from large language models can decrease headline discernment</a> was published in <em>PNAS</em>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Our work <a href='https://doi.org/10.48550/arXiv.2410.21554' target='_blank'>Information diffusion assumptions can distort our understanding of social network dynamics</a> was accepted for an oral presentation at <a href='https://cs2italy.org/' target='_blank'>CS2Italy</a> (Conference On Computational Social Science) and will be presented by my coauthor <a href='https://pierri.faculty.polimi.it/' target='_blank'>Francesco Pierri</a>."
+            },
+            {
+                "type": "Preprint",
+                "htmltext": "<a href='https://doi.org/10.48550/arXiv.2410.21554' target='_blank'>Information diffusion assumptions can distort our understanding of social network dynamics</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://www.jlukito.com/' target='_blank'>Jo Lukito</a> from the University of Texas at Austin’s School of Journalism and Media gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/Ehg26KUBE1w' target='_blank'>here</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "I was invited to give a talk about our work about how humans interact with LLM fact checks for the wonderful folks at UPenn's <a href='https://socialactionlab.org/' target='_blank'>Social Action Lab</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Our work <a href='' target='_blank'>Fact-checking information from large language models can decrease headline discernment</a> was accepted for a lightening talk at <a href='https://conferences.law.stanford.edu/tsrc/' target='_blank'>Stanford's Trust and Safety Research Conference</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "I was invited to give a talk about our work identifying and characterizing superspreaders of low-credibility content for the wonderful folks at Cornell Tech's <a href='https://tech.cornell.edu/news/cornell-tech-launches-security-trust-and-safety-initiative/' target='_blank'>Security, Trust, and Safety (SETS)</a> Initiative."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Had a great time speaking on the 'Data is Everything: Data's Role in Social Advancement and Technological Growth' panel for the 2024 Luddy Precollege Program."
+            },
+            {
+                "type": "Award",
+                "htmltext": "💥 Honored to receive $7,000 in <a href='https://openai.smapply.org/prog/openai_researcher_access_program/' target='_blank'>OpenAI Researcher Access Program</a> credits to study LLM fact checking. 🙏"
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://www.abc.net.au/news/2024-05-23/twitter-misinformation-x-report/103878248' target='_blank'>ABC Australia</a> covered our paper <a href='https://doi.org/10.1371/journal.pone.0302201' target='_blanket'>Identifying and characterizing superspreaders of low-credibility content on Twitter</a>."
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://www.iflscience.com/just-10-superspreaders-are-responsible-for-over-a-third-of-misinformation-on-twitter-74371' target='_blank'>IFL Science</a> covered our paper <a href='https://doi.org/10.1371/journal.pone.0302201' target='_blanket'>Identifying and characterizing superspreaders of low-credibility content on Twitter</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "Featured in <a href='https://foundation.mozilla.org/' target='_blank'>Mozilla's</a> <a href='https://aidatabase.mozilla.org/' target='_blank'>AI Intersections Database</a>, which maps where AI impacts meet social justice issues and catalogs the people and organizations working to make AI equitable for all."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://www.sinanaral.io/' target='_blank'>Sinan Aral</a> from Massachusetts Institute of Technology gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/PLSdEQyWcpk' target='_blank'>here</a>"
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='http://faculty.washington.edu/kstarbi/' target='_blank'>Kate Starbird</a> from the University of Washington gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/kAUl4Y0EPwM' target='_blank'>here</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://andyguess.com/' target='_blank'>Andrew 'Andy' Guess</a> from Princeton University gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. If a video becomes available, I will make sure to link it here."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://sandragonzalezbailon.net/' target='_blank'>Sandra González-Bailón</a> from the University of Pennsylvania gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/JHdWYjPiQNA' target='_blank'>here</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "Invited to serve as a Program Committee member of the <a href='https://sms-workshop.github.io/' target='_blank'>Social Media Sway workshop</a> taking place at the <a href='https://asonam.cpsc.ucalgary.ca/2024/' target='_blank'>International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a>."
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://www.justsecurity.org/93708/social-media-disinformation-2024-elections/' target='_blank'>Just Security</a> covered our <a href='https://osome.iu.edu/tools/topfibers/' target='_blanket'>Top FIBers</a> dashboard in their piece <em>How to Combat Emerging Global Social Media Manipulation in 2024</em>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://mitsloan.mit.edu/faculty/directory/david-g-rand' target='_blank'>David Rand</a> from Massachusetts Institute of Technology gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/aG-yP1F7KSc' target='_blank'>here</a>."
+            },
+            {
+                "type": "Award",
+                "htmltext": "💥 Honored that I was selected to join the <a href='https://midas.umich.edu/future-leaders-summit-2024/' target='_blank'>2024 Future Leaders Summit</a> organized by the <a href='https://midas.umich.edu/' target='_blank'>Michigan Institute for Data Science (MIDAS)</a> at the <a href='https://www.umich.edu/' target='_blank'>University of Michigan</a>. 🙏"
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://www.seas.gwu.edu/david-broniatowski' target='_blank'>David Broniatowski</a> from George Washington University gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/4FHMPYEZGKU' target='_blank'>here</a>."
+            },
+            {
+                "type": "Preprint",
+                "htmltext": "<a href='https://arxiv.org/abs/2402.11351' target='_blank'>Modeling the amplification of epidemic spread by misinformed populations</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://cssh.northeastern.edu/faculty/david-lazer/' target='_blank'>David Lazer</a> from Northeastern University gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/XPbFrDXS750' target='_blank'>here</a>."
+            },
+            {
+                "type": "Award",
+                "htmltext": "Honored to receive a $5,000 fellowship from the <a href='https://www.theihs.org/' target='_blank'>Institute for Humane Studies</a>. 🙏"
+            },
+            {
+                "type": "General",
+                "htmltext": "Thrilled to announce that I will be co-organizing the <a href='https://cy-soc.github.io/2024/' target='_blank'>Fifth International Cyber Social Threats workshop</a> at the <a href='https://www.icwsm.org/2024/index.html/index.html' target='_blank'>International Conference on Web and Social Media (2024)</a>. 💥 Make sure to submit your work!"
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "items": [
+            {
+                "type": "Award",
+                "htmltext": "Honored to receive a $5,000 minigrant from the <a href='https://www.civichealthproject.org/' target='_blank'>Civic Health Project</a> to develop an LLM-powered extension to reduce toxic polarization! 🙏"
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://www.ilpost.it/2023/11/17/dibattito-disinformazione/?utm_medium=social&utm_source=twitter&utm_campaign=lancio' target='_blank'>il Post</a> covered (in Italian) our paper <a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'>Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal</a>."
+            },
+            {
+                "type": "Media",
+                "htmltext": "The <a href='https://www.myiu.org/stories/research-and-innovation/finding-fibbers/' target='_blank'>IMAGINE IU</a> magazine covered the <a href='https://osome.iu.edu/tools/topfibers/' target='_blanket'> Top FIBers dashboard</a>. <i class='fa-solid fa-chart-line'></i>"
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://www.reneediresta.com' target='_blank'>Renée DiResta</a> from the <a href='https://cyber.fsi.stanford.edu/io' target='_blank'>Stanford Internet Observatory</a> gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/Z62Zr6V1w-E' target='_blank'>here</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='http://cbudak.com/index.html' target='_blank'>Ceren Budak</a> from the School of Information at the University of Michigan gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/XJ0J0_irWm4' target='_blank'>here</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "<a href='https://frapierri.github.io/' target='_blank'>Francesco Pierri</a> will be presenting work from our project 'Misinformed populations can amplify the spread of disease' at the <a href='https://edmo.eu/2023/09/18/edmo-scientific-conference-2024/' target='_blanket'> European Digital Media Observatory (EDMO) Scientific Conference on Disinformation</a>."
+            },
+            {
+                "type": "Media",
+                "htmltext": "The <a href='https://apnews.com/article/rfk-kennedy-election-vaccines-2ccde2df146f57b5e8c26e8494f0a16a' target='_blank'>AP News</a> covered our paper <a href='https://doi.org/10.2196/42227' target='_blanket'> One Year of COVID-19 Vaccine Misinformation on Twitter</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://sites.dartmouth.edu/nyhan/' target='_blank'>Brendan Nyhan</a> from Dartmouth's <a href='http://govt.dartmouth.edu/' target='_blank'>Department of Governance</a> gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/c2LeKXwcyNs' target='_blank'>here</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://www.franziroesner.com/' target='_blank'>Franziska Roesner</a> from UW's <a href='https://ischool.uw.edu/' target='_blank'>Information School</a> gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. There is no recording of this one but you can watch others <a href='https://youtube.com/playlist?list=PL_We_bGEZetGpLVpP4z7oD32_YhzoNlQ0&si=OPoU0NGq-nUg2MHb' target='_blank'>here</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://www.luceriluc.it/' target='_blank'>Luca Luceri</a> from USC's <a href='https://www.isi.edu/' target='_blank'>Information Sciences Institute (ISI)</a> gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/OG09l4iI1wA' target='_blank'>here</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://seclab.bu.edu/people/gianluca/' target='_blank'>Gianluca Stringhini</a> from BU's <a href='https://seclab.bu.edu/index.html' target='_blank'>Security Lab (SeclaBU)</a> gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/TRM8YTdRJVE' target='_blank'>here</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "🥂 <a href='https://doi.org/10.48550/arXiv.2308.10800' target='_blank'>Artificial intelligence is ineffective and potentially harmful for fact checking</a> was accepted for a poster presentation at <a href='https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/' target='_blank'>CODE@MIT</a>. Let me know if you'll be in Boston!"
+            },
+            {
+                "type": "Award",
+                "htmltext": "Honored to receive a $10,000 Trust and Safety scholarship from <a href='https://www.cognizant.com' target='_blank'>Cognizant</a>. 🙏"
+            },
+            {
+                "type": "General",
+                "htmltext": "🎤 <a href='https://csmapnyu.org/people/joshua-a-tucker' target='_blank'>Joshua Tucker</a> from NYU's <a href='https://csmapnyu.org/' target='_blank'>Center for Social Media and Politics</a> gave a talk as part of the Observatory's <a href='https://osome.iu.edu/events/speaker-series' target='_blank'>Awesome Speakers</a> event. Watch it <a href='https://youtu.be/rXO4Qi_Fypk' target='_blank'>here</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "<a href='https://www.kaichengyang.me/#/' target='_blank'>Kai-Cheng Yang</a> presented our paper <a href='https://doi.org/10.48550/arXiv.2308.10800' target='_blank'>Artificial intelligence is ineffective and potentially harmful for fact checking</a> at the <a href='https://zacharyst.com/conferences/#post-1712' target='_blank'>2023 Politics and Computational Social Science Conference</a>."
+            },
+            {
+                "type": "Preprint",
+                "htmltext": "<a href='https://doi.org/10.48550/arXiv.2308.10800' target='_blank'>Fact-checking information generated by a large language model can decrease news discernment</a>."
+            },
+            {
+                "type": "Media",
+                "htmltext": "I was interviewed by <a href='https://www.wishtv.com/news/local-news/dashboard-helps-people-filter-out-fake-social-media-posts/' target='_blank'>WISH-TV</a> about the <a href='https://osome.iu.edu/tools/topfibers/' target='_blank'>Top FIBers</a> tool."
+            },
+            {
+                "type": "Media",
+                "htmltext": "The <a href='https://osome.iu.edu/tools/topfibers/' target='_blank'>Times of India</a> covered our <a href='https://osome.iu.edu/tools/topfibers/' target='_blank'>Top FIBers</a> tool."
+            },
+            {
+                "type": "Tool",
+                "htmltext": "Created an interactive dashboard called <a href='https://osome.iu.edu/tools/topfibers/' target='_blank'>Top FIBers</a> that tracks and reports on the top superspreaders of low-credibility information on Twitter and Facebook each month."
+            },
+            {
+                "type": "General",
+                "htmltext": "During the spring semester I had the pleasure of mentoring Ashley Zeigler as part of Indiana University's Undergraduate Research Opportunities in Computing (UROC) program."
+            },
+            {
+                "type": "General",
+                "htmltext": "I will be serving as a guest editor for <a href='https://epjdatascience.springeropen.com/' target='_blank'>EPJ Data Science</a>'s special issue <a href='https://www.springeropen.com/collections/CACST' target='_blank'>Computational Approaches for Cyber Social Threats</a>. 💥 Make sure to submit your manuscript! 💥"
+            },
+            {
+                "type": "Talk",
+                "htmltext": "My work reconstructing social media cascades to identify misinformation amplifiers was accepted for a poster at the <a href='https://www.ic2s2.org/' target='_blank'>International Conference on Computational Social Science</a>!"
+            },
+            {
+                "type": "Talk",
+                "htmltext": "My work reconstructing social media cascades to identify misinformation amplifiers was accepted for a talk at <a href='https://netsci2023.wixsite.com/netsci2023' target='_blank'>NetSci</a>!"
+            },
+            {
+                "type": "Award",
+                "htmltext": "I was recognized with the Informatics department's <a href='docs/awards/2023_Luddy_Service_Award.pdf' target='_blank'>Luddy Outstanding Service Award</a> ($500)."
+            },
+            {
+                "type": "Media",
+                "htmltext": "Spoke on <a href='https://indianapublicmedia.org/news/mayoral-forum,-jumping-worm,-big-foot-indiana-newsdesk.php' target='_blank'>Indiana Newsdesk</a> about our paper <a href='https://doi.org/10.2196/42227' target='_blanket'> One Year of COVID-19 Vaccine Misinformation on Twitter</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "💥 <a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'> Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal </a> was cited in the <a href='https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf' target='_blank'> 2023 Economic Report of the President</a>. 💥"
+            },
+            {
+                "type": "General",
+                "htmltext": "🧨 <a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'> Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal </a> was listed in <i>Scientific Reports</i> <a href='https: //www.nature.com/collections/jhjibhhicg' target='_blanket'> Top 100 most downloaded articles of 2022 </a>. 🧨"
+            },
+            {
+                "type": "Publication",
+                "htmltext": "<a href='https://doi.org/10.2196/42227' target='_blanket'> One year of COVID-19 vaccine misinformation on Twitter </a> published in the <em>Journal of Medical Internet Research</em>."
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "items": [
+            {
+                "type": "General",
+                "htmltext": "<a href='https://cy-soc.github.io/2023/' target='_blank'> Cyber Social Threats workshop </a> at <a href='https://www2023.thewebconf.org/' target='_blank'>The Web Conference (2023)</a> was accepted!"
+            },
+            {
+                "type": "General",
+                "htmltext": "Accepted into the Twitter Developer <a href='https://developer.twitter.com/en/community/student-ambassadors' target='_blank'>Student Ambassador Program</a>! <i class='fa-brands fa-twitter'></i>"
+            },
+            {
+                "type": "Award",
+                "htmltext": "Very honored to have been awarded the <a href='docs/awards/MISDOOM_2022_best_student_extended_abstract_award.pdf' target='_blank'>Best Student Extended Abstract</a> award at <a href='https://www.boisestate.edu/misdoom-2022/' target='_blank'>MISDOOM 2022</a>! 🎉"
+            },
+            {
+                "type": "Talk",
+                "htmltext": "I spoke about our work at the <a href='https://truthandtrustonline.com/' target='_blank'>Truth and Trust Online conference (TTO)</a> today! Check out some pictures the conference shared on Twitter about my talk <a href='https://twitter.com/andreas212nyc/status/1580642279089635329?s=20&t=Ya_UoPYFcAqU46sbpLivvg' target='_blank'>here</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "I spoke about our work at the <a href='https://www.boisestate.edu/misdoom-2022/' target='_blank'>Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM)</a> today!"
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Former Dominican Republic President Leonel Fernández visited the <a href='https://osome.iu.edu/' target='_blank'>Observatory on Social Media</a> and I gave a demonstration of a visualization tool called 'MisAmplifiers' that identifies hidden amplifiers of misinformation on Twitter."
+            },
+            {
+                "type": "General",
+                "htmltext": "Spoke as a panelist at NYU about the PhD application process for currently applying MA students."
+            },
+            {
+                "type": "Publication",
+                "htmltext": "<a href='https://doi.org/10.1177/01461672221114222' target='_blanket'>Rumors in Retweet: Ideological Asymmetry in the Failure to Correct Misinformation</a> was published in <em>Personality and Social Psychology Bulletin</em>."
+            },
+            {
+                "type": "Preprint",
+                "htmltext": "<a href='https://doi.org/10.48550/arXiv.2207.09524' target='_blank'>Identification and characterization of misinformation superspreaders on social media</a>."
+            },
+            {
+                "type": "Preprint",
+                "htmltext": "<a href='https://doi.org/10.48550/arXiv.2209.01675' target='_blank'>One year of COVID-19 vaccine misinformation on Twitter</a>."
+            },
+            {
+                "type": "Media",
+                "htmltext": "Had a wonderful conversation on the <a href='https://youtu.be/gQLl96e6FSI' target='_blank'>Misinformation in Science and Society (MISS)</a> YouTube Channel."
+            },
+            {
+                "type": "General",
+                "htmltext": "Co-organized the third annual <a href='https://cysoc2022.github.io' target='_blank'>Cyber Social Threats workshop</a> at ICWSM."
+            },
+            {
+                "type": "Award",
+                "htmltext": "Information Disorder Prize Competition (Aspen Tech Policy Hub): Semi-finalist ($5,000)."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Invited as a speaker for the Hacking Online Virality event at the University of Minnesota's Learning Informatics Lab."
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://www.nytimes.com/2022/05/25/magazine/anti-vaccine-movement.html' target='_blank'>New York Times Magazine</a> covered our recent publication <a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'>Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal</a> in a piece about the anti-vaccination movement's 'new frontier.'"
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://time.com/6172678/childhood-vaccinations-fall-covid-19/?utm_source=twitter&utm_medium=social&utm_campaign=social-share-article&utm_term=health_covid-19' target='_blank'>Time</a> covered our recent publication <a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'>Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal</a> in a piece discussing childhood vaccination rates and misinformation."
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://techpolicy.press/researchers-see-clear-link-between-twitter-misinformation-and-covid-19-vaccine-hesitancy-and-refusal/' target='_blank'>Tech Policy Press</a> covered our publication <a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'>Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal</a> in a piece discussing evidence linking misinformation to vaccine hesitancy from multiple studies."
+            },
+            {
+                "type": "Publication",
+                "htmltext": "<a href='https://doi.org/10.1038/s41598-022-10070-w' target='_blanket'>Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal</a> was published in <em>Scientific Reports</em>."
+            },
+            {
+                "type": "Tool",
+                "htmltext": "Created a Python package called <a href='https://github.com/osome-iu/osometweet' target='_blank'><code>py_misinfo_exposure</code></a> to calculate a Twitter user's misinformation-exposure score (based on <a href='https://psyarxiv.com/ye3pf/' target='_blank'>Mosleh and Rand, 2021</a>)."
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "items": [
+            {
+                "type": "Talk",
+                "htmltext": "Invited to give a demonstration of <a href='https://github.com/osome-iu/osometweet' target='_blank'><code>osometweet</code></a> on Twitter's official Twitch channel (<a href='https://github.com/mr-devs/osometweet_demo/blob/main/notebooks/osometweet%20demo.ipynb' target='_blank'>Jupyter notebook</a>; this notebook may be outdated if the package is updated)."
+            },
+            {
+                "type": "Tool",
+                "htmltext": "Released the first version of <a href='https://github.com/osome-iu/osometweet' target='_blank'><code>osometweet</code></a> — a Python package designed for academics to access Twitter's V2 API."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Invited as a speaker for the Knight Research Network Tool Demonstration Day (<a href='https://osome.iu.edu/tools/covaxxy' target='_blank'>CoVaxxy</a>)."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Invited by the <a href='https://education.acha.org/products/managing-covid-19-vaccine-misinformation-on-campus' target='_blank'>ACHA CoVAC Initiative</a> to speak at the <a href='https://education.acha.org/products/managing-covid-19-vaccine-misinformation-on-campus' target='_blank'>Managing COVID-19 Vaccine Misinformation on Campus webinar</a>."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Accepted by the Networks Conference to give a presentation about identifying superspreaders of misinformation on Twitter."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Invited to give a demonstration of <a href='https://osome.iu.edu/tools/covaxxy' target='_blank'>CoVaxxy</a> at ICWSM."
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://www.axios.com/2021/05/13/vaccine-hesitancy-misinformation' target='_blank'>Axios</a> covered the <a href='https://osome.iu.edu/tools/covaxxy' target='_blank'>CoVaxxy</a> dashboard in a piece about vaccine trust."
+            },
+            {
+                "type": "Media",
+                "htmltext": "<a href='https://apnews.com/article/how-rfk-jr-built-anti-vaccine-juggernaut-amid-covid-4997be1bcf591fe8b7f1f90d16c9321e?via=newsletter&source=BI-CS-All' target='_blank'>AP News</a> covered the <a href='https://osome.iu.edu/tools/covaxxy' target='_blank'>CoVaxxy</a> dashboard in a deep dive about Robert F. Kennedy Jr."
+            },
+            {
+                "type": "Publication",
+                "htmltext": "<a href='https://ojs.aaai.org/index.php/ICWSM/article/view/18122' target='_blanket'>CoVaxxy: A Collection of English Language Twitter Posts about COVID-19 Vaccines</a> was published in the ICWSM proceedings."
+            },
+            {
+                "type": "Tool",
+                "htmltext": "Released <a href='https://osome.iu.edu/tools/covaxxy' target='_blank'>CoVaxxy</a> — a web-based data visualization dashboard for visualizing the relationship between (mis)information and vaccine adoption in the United States."
+            },
+            {
+                "type": "Talk",
+                "htmltext": "Gave a presentation about my research for the <em>Computer and Information Ethics</em> course at Indiana University."
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "items": [
+            {
+                "type": "General",
+                "htmltext": "Joined the IU Graduate Professional Student Government as a representative for the Informatics program (PhD)."
+            },
+            {
+                "type": "General",
+                "htmltext": "Awarded a Knight Research Fellowship."
+            },
+            {
+                "type": "General",
+                "htmltext": "Began working with the <a href='https://osome.iu.edu/' target='_blank'>Observatory on Social Media</a> and Dr. Filippo Menczer's research group, <a href='https://cnets.indiana.edu/groups/nan/' target='_blank'>Networks and Agents Networks</a>."
+            },
+            {
+                "type": "General",
+                "htmltext": "Accepted by Indiana University's Informatics PhD program (Complex Networks and Systems track)! 🕺🏻"
+            },
+            {
+                "type": "General",
+                "htmltext": "Graduated from NYU with General Psychology MA."
+            },
+            {
+                "type": "Award",
+                "htmltext": "Masters Research Award, New York University ($500)."
+            }
+        ]
+    }
+]

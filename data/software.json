@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Deadline Hub",
+        "description": "Collection of academic deadlines, mostly related to my own research.",
+        "href": "https://www.matthewdeverna.com/deadline-hub/"
+    },
+    {
+        "title": "Fact-Checking Widget",
+        "description": "Streamlit app that allows users to explore how different OpenAI models fact check news articles. Uses a prompt from DeVerna et al. (2024), PNAS.",
+        "href": "https://mr-devs-fact-checking-widget-streamlit-app-xsjyxh.streamlit.app/"
+    },
+    {
+        "title": "Facebook News Bridge",
+        "description": "An AI browser extension, powered by Gemini. Grounded in Google search, the extension allows users to retrieve relevant contextual information about news they encounter on Facebook and even lets users generate bridging responses.",
+        "href": "https://chromewebstore.google.com/detail/newsbridge/edncfabheifijfjpjfphbjdfchacodhb"
+    },
+    {
+        "title": "Pseudo-profound Bullshit Generator",
+        "description": "Streamlit app for generating psuedo-profound bullshit with the help of GPT-3.5.",
+        "href": "https://mr-devs-pseudo-profound-bullshit-generator-streamlit-app-yw2ecl.streamlit.app/"
+    },
+    {
+        "title": "AI Persuasion Companion for CMV",
+        "description": "Streamlit app for retrieving and responding to posts from Reddit's r/changemyview subreddit. Input an OpenAI API key to analyze and respond to posts with GPT-4.",
+        "href": "https://mr-devs-changemyview-llm-appstreamlit-app-banmjd.streamlit.app/"
+    },
+    {
+        "title": "Top FIBers",
+        "description": "The Top FIBers dashboard tracks and reports on the top superspreaders of low-credibility information on Twitter and Facebook each month.",
+        "href": "https://osome.iu.edu/tools/topfibers/"
+    },
+    {
+        "title": "US Midterm Elections 2022",
+        "description": "Multi-platform analysis of information about US 2022 midterm elections.",
+        "href": "https://osome.iu.edu/tools/midterm22/"
+    },
+    {
+        "title": "CoVaxxy",
+        "description": "Visualizing the relationship between COVID-19 vaccine adoption and online (mis)information.",
+        "href": "https://osome.iu.edu/tools/covaxxy/"
+    },
+    {
+        "title": "OSoMeTweet",
+        "description": "Python package to work with Twitter’s V2 API. (A bit outdated now, but still useful.)",
+        "href": "https://github.com/osome-iu/osometweet"
+    },
+    {
+        "title": "py_misinfo_exposure",
+        "description": "Python package for calculating a Twitter user's misinformation-exposure score.",
+        "href": "https://github.com/mr-devs/py_misinfo_exposure"
+    },
+    {
+        "title": "Clean Academic CV Template",
+        "description": "Overleaf/LaTeX CV template. Designed to be easy to customize and maintain.",
+        "href": "https://www.overleaf.com/latex/templates/clean-academic-cv-template/tjpjkzmvztwn"
+    },
+    {
+        "title": "Clean Academic CV Template (GitHub)",
+        "description": "Overleaf/LaTeX CV template. GitHub version.",
+        "href": "https://github.com/mr-devs/mrd-cv-template"
+    }
+]
