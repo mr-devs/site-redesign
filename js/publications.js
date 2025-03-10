@@ -39,14 +39,10 @@ function renderPublications(publications) {
                 <br>
                 ${formattedAuthors}. 
                 <em><strong>${pub.publication}</strong></em>. ${pub.year}
-                <span class="highlight">
-                    <a href="${pub.pdfLink}" target="_blank">
-                        <i class="bi bi-file-earmark-text-fill accent"></i>
-                    </a>
-                    <a href="#" onclick="window.copyBibText('${pub.bibPath}'); return false;">
-                        <i class="bi bi-clipboard-check-fill accent"></i>
-                    </a>
-                </span>
+                  <a href="${pub.pdfLink}" target="_blank"><i class="bi bi-file-earmark-text-fill accent"></i></a>
+                  <a href="#" onclick="window.copyBibText('${pub.bibPath}'); return false;">
+                      <i class="bi bi-clipboard-check-fill accent"></i>
+                  </a>
                 <br>
                 ${pub.additionalInfo ? pub.additionalInfo.join('') : ''}
             </p>

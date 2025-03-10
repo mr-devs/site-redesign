@@ -1,4 +1,3 @@
-import "./theme-switcher.js";
 import { loadPublications } from "./publications.js";
 import { loadWorkingPapers } from "./working_papers.js";
 import { loadOngoingProjects } from "./ongoing_projects.js";
